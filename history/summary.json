@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.4hse.com.ico",
     "slug": "service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 624,
-    "timeDay": 804,
-    "timeWeek": 772,
-    "timeMonth": 610,
-    "timeYear": 624,
-    "dailyMinutesDown": {
-      "2025-01-25": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 627,
+    "timeDay": 820,
+    "timeWeek": 774,
+    "timeMonth": 627,
+    "timeYear": 627,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobile",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile.4hse.com.ico",
     "slug": "mobile",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 473,
-    "timeDay": 481,
-    "timeWeek": 460,
-    "timeMonth": 451,
-    "timeYear": 473,
-    "dailyMinutesDown": {
-      "2025-01-25": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 472,
+    "timeDay": 476,
+    "timeWeek": 456,
+    "timeMonth": 457,
+    "timeYear": 472,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Academy",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.4hse.com.ico",
     "slug": "academy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1272,
-    "timeDay": 1353,
-    "timeWeek": 1408,
-    "timeMonth": 1254,
-    "timeYear": 1272,
-    "dailyMinutesDown": {
-      "2025-01-25": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1282,
+    "timeDay": 1331,
+    "timeWeek": 1456,
+    "timeMonth": 1263,
+    "timeYear": 1282,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WWW",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 739,
-    "timeWeek": 744,
-    "timeMonth": 719,
-    "timeYear": 773,
+    "time": 772,
+    "timeDay": 733,
+    "timeWeek": 741,
+    "timeMonth": 727,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   }
 ]
