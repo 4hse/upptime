@@ -1,7 +1,7 @@
-url: https://academy.4hse.com
+url: https://academy.4hse.com/?$SKIP_WAF_FIREWALL
 status: up
 code: 200
-responseTime: 1633
-lastUpdated: 2025-02-11T04:34:06.548Z
+responseTime: 1746
+lastUpdated: 2025-02-11T10:30:36.652Z
 startTime: 2024-12-09T16:52:07.382Z
 generator: Upptime <https://github.com/upptime/upptime>
