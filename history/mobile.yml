@@ -1,7 +1,7 @@
-url: https://mobile.4hse.com
+url: https://mobile.4hse.com/?$SKIP_WAF_FIREWALL
 status: up
 code: 200
-responseTime: 387
-lastUpdated: 2025-02-11T04:34:02.581Z
+responseTime: 345
+lastUpdated: 2025-02-11T10:30:34.722Z
 startTime: 2024-12-09T16:52:06.622Z
 generator: Upptime <https://github.com/upptime/upptime>
