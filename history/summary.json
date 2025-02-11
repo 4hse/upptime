@@ -4,54 +4,60 @@
     "url": "https://service.4hse.com",
     "icon": "https://icons.duckduckgo.com/ip3/service.4hse.com.ico",
     "slug": "service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 839,
-    "timeWeek": 779,
-    "timeMonth": 706,
+    "timeDay": 746,
+    "timeWeek": 763,
+    "timeMonth": 704,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Mobile",
     "url": "https://mobile.4hse.com",
     "icon": "https://icons.duckduckgo.com/ip3/mobile.4hse.com.ico",
     "slug": "mobile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 646,
-    "timeWeek": 585,
-    "timeMonth": 490,
-    "timeYear": 480,
-    "dailyMinutesDown": {}
+    "time": 483,
+    "timeDay": 639,
+    "timeWeek": 591,
+    "timeMonth": 496,
+    "timeYear": 483,
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Academy",
     "url": "https://academy.4hse.com",
     "icon": "https://icons.duckduckgo.com/ip3/academy.4hse.com.ico",
     "slug": "academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1401,
-    "timeDay": 2098,
-    "timeWeek": 1758,
-    "timeMonth": 1649,
-    "timeYear": 1401,
-    "dailyMinutesDown": {}
+    "time": 1389,
+    "timeDay": 1382,
+    "timeWeek": 1622,
+    "timeMonth": 1606,
+    "timeYear": 1389,
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "WWW",
