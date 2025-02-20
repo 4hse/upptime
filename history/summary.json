@@ -4,18 +4,20 @@
     "url": "https://service.4hse.com/?$SKIP_WAF_FIREWALL",
     "icon": "https://icons.duckduckgo.com/ip3/service.4hse.com.ico",
     "slug": "service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 482,
-    "timeWeek": 629,
-    "timeMonth": 664,
-    "timeYear": 634,
-    "dailyMinutesDown": {}
+    "time": 636,
+    "timeDay": 567,
+    "timeWeek": 648,
+    "timeMonth": 669,
+    "timeYear": 636,
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   },
   {
     "name": "Mobile",
