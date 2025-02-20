@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.4hse.com.ico",
     "slug": "service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 635,
-    "timeDay": 576,
-    "timeWeek": 628,
-    "timeMonth": 668,
-    "timeYear": 635,
-    "dailyMinutesDown": {
-      "2025-02-19": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 634,
+    "timeDay": 482,
+    "timeWeek": 629,
+    "timeMonth": 664,
+    "timeYear": 634,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobile",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 635,
-    "timeWeek": 508,
-    "timeMonth": 489,
-    "timeYear": 481,
+    "time": 550,
+    "timeDay": 5338,
+    "timeWeek": 1216,
+    "timeMonth": 632,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1426,
-    "timeDay": 1880,
-    "timeWeek": 1656,
-    "timeMonth": 1619,
-    "timeYear": 1426,
+    "time": 1428,
+    "timeDay": 1597,
+    "timeWeek": 1729,
+    "timeMonth": 1618,
+    "timeYear": 1428,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 1099,
-    "timeWeek": 853,
-    "timeMonth": 805,
-    "timeYear": 789,
+    "time": 787,
+    "timeDay": 695,
+    "timeWeek": 857,
+    "timeMonth": 802,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   }
 ]
