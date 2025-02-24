@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Service
-    url: https://service.4hse.com/?$SKIP_WAF_FIREWALL
+    url: https://service.4hse.com/site/login?$SKIP_WAF_FIREWALL
   - name: Mobile
     url: https://mobile.4hse.com/?$SKIP_WAF_FIREWALL
   - name: Academy
