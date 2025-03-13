@@ -61,7 +61,7 @@
     "url": "https://www.4hse.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.4hse.com.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
@@ -73,6 +73,7 @@
     "timeMonth": 837,
     "timeYear": 801,
     "dailyMinutesDown": {
+      "2025-03-13": 0,
       "2025-03-10": 34,
       "2025-03-04": 26,
       "2025-02-28": 31,
