@@ -40,7 +40,7 @@
     "url": "https://academy.4hse.com/?$SKIP_WAF_FIREWALL",
     "icon": "https://icons.duckduckgo.com/ip3/academy.4hse.com.ico",
     "slug": "academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 570,
     "timeMonth": 556,
     "timeYear": 1484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   }
 ]
