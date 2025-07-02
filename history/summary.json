@@ -5,19 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.4hse.com.ico",
     "slug": "service",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 688,
     "timeWeek": 749,
     "timeMonth": 645,
-    "timeYear": 619,
-    "dailyMinutesDown": {
-      "2025-06-27": 58
-    }
+    "timeYear": 619
   },
   {
     "name": "Mobile",
@@ -25,19 +22,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile.4hse.com.ico",
     "slug": "mobile",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 485,
     "timeWeek": 530,
     "timeMonth": 538,
-    "timeYear": 527,
-    "dailyMinutesDown": {
-      "2025-06-27": 58
-    }
+    "timeYear": 527
   },
   {
     "name": "Academy",
@@ -45,18 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/academy.4hse.com.ico",
     "slug": "academy",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1335,
     "timeDay": 180,
     "timeWeek": 189,
     "timeMonth": 301,
-    "timeYear": 1335,
-    "dailyMinutesDown": {
-      "2025-06-27": 58
-    }
+    "timeYear": 1335
   }
 ]
