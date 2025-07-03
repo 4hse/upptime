@@ -5,12 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Service
     url: https://service.4hse.com/site/login?$SKIP_WAF_FIREWALL
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   - name: Mobile
     url: https://mobile.4hse.com/?$SKIP_WAF_FIREWALL
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   - name: Docs
     url: https://docs.4hse.com/?$SKIP_WAF_FIREWALL
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   - name: WWW
     url: https://www.4hse.com
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
