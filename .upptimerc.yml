@@ -21,13 +21,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.4hse.com
   # baseUrl: /upptime
-  logoUrl: https://www.4hse.com/logo.png
-  name: Up time 4hse
+  faviconSvg: https://status.4hse.com/favicon.svg
+  themeUrl: https://status.4hse.com/4hse.css
+  logoUrl: https://status.4hse.com/logo.png
+  name: Status page
   introTitle: "4HSE Service status"
   introMessage: Welcome to our Service Status page. Here, you can find real-time updates about the availability and performance of our systems. We are committed to providing a reliable and transparent service. In the event of an issue, we will update this page with details about the incident, progress on the resolution, and an estimated time for recovery. You can also review past events to better understand our service's stability.
   navbar:
     - title: Status
-      href: /upptime
+      href: /
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
 
