@@ -33,3 +33,7 @@
     --graph-opacity: 1;
     --graph-filter: none;
 }
+
+a.logo {
+    color: white;
+}
