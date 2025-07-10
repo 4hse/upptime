@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /upptime
   faviconSvg: https://status.4hse.com/favicon.svg
   themeUrl: https://status.4hse.com/4hse.css
-  logoUrl: https://status.4hse.com/logo.png
+  logoUrl: https://status.4hse.com/logo.svg
   name: Status page
   introTitle: "4HSE Service status"
   introMessage: Welcome to our Service Status page. Here, you can find real-time updates about the availability and performance of our systems. We are committed to providing a reliable and transparent service. In the event of an issue, we will update this page with details about the incident, progress on the resolution, and an estimated time for recovery. You can also review past events to better understand our service's stability.
