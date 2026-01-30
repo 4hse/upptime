@@ -4,19 +4,19 @@
     "url": "https://service.4hse.com/site/login?$SKIP_WAF_FIREWALL",
     "icon": "https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png",
     "slug": "service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 715,
-    "timeWeek": 741,
-    "timeMonth": 733,
+    "timeDay": 699,
+    "timeWeek": 733,
+    "timeMonth": 731,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2026-01-30": 0
+      "2026-01-30": 20
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://docs.4hse.com/?$SKIP_WAF_FIREWALL",
     "icon": "https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 177,
-    "timeWeek": 168,
-    "timeMonth": 166,
-    "timeYear": 179,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 178,
+    "timeDay": 139,
+    "timeWeek": 156,
+    "timeMonth": 163,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-01-30": 0
+      "2026-01-30": 20
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://www.4hse.com",
     "icon": "https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png",
     "slug": "www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 228,
-    "timeWeek": 237,
-    "timeMonth": 247,
-    "timeYear": 701,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 708,
+    "timeDay": 274,
+    "timeWeek": 252,
+    "timeMonth": 251,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2026-01-30": 0
+      "2026-01-30": 20
     }
   }
 ]
