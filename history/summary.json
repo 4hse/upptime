@@ -4,18 +4,20 @@
     "url": "https://service.4hse.com/site/login?$SKIP_WAF_FIREWALL",
     "icon": "https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png",
     "slug": "service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 708,
-    "timeWeek": 744,
-    "timeMonth": 734,
+    "timeDay": 715,
+    "timeWeek": 741,
+    "timeMonth": 733,
     "timeYear": 680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-30": 0
+    }
   },
   {
     "name": "Mobile",
@@ -40,35 +42,39 @@
     "url": "https://docs.4hse.com/?$SKIP_WAF_FIREWALL",
     "icon": "https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 171,
-    "timeWeek": 166,
+    "timeDay": 177,
+    "timeWeek": 168,
     "timeMonth": 166,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-30": 0
+    }
   },
   {
     "name": "WWW",
     "url": "https://www.4hse.com",
     "icon": "https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 281,
-    "timeWeek": 246,
-    "timeMonth": 249,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 709,
+    "timeDay": 228,
+    "timeWeek": 237,
+    "timeMonth": 247,
+    "timeYear": 701,
+    "dailyMinutesDown": {
+      "2026-01-30": 0
+    }
   }
 ]
