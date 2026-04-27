@@ -12,6 +12,9 @@ sites:
   - name: Docs
     url: https://docs.4hse.com/?$SKIP_WAF_FIREWALL
     icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+  - name: Dev
+    url: https://dev.4hse.com/?$SKIP_WAF_FIREWALL
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png    
   - name: WWW
     url: https://www.4hse.com
     icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
