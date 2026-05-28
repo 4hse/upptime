@@ -17,7 +17,13 @@ sites:
     icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   - name: Dev
     url: https://dev.4hse.com
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png    
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+  - name: AI
+    url: https://ai.4hse.com
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+  - name: MCP
+    url: https://mcp.4hse.com
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   - name: WWW
     url: https://www.4hse.com
     icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
