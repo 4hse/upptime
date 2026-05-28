@@ -9,6 +9,12 @@ sites:
   - name: Auth
     url: https://auth.4hse.com/?$SKIP_WAF_FIREWALL
     icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+  - name: AI
+    url: https://ai.4hse.com
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+  - name: MCP
+    url: https://mcp.4hse.com
+    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   - name: Mobile
     url: https://mobile.4hse.com
     icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
