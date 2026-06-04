@@ -1,7 +1,7 @@
-url: https://mcp.4hse.com
+url: https://mcp.4hse.com/?$SKIP_WAF_FIREWALL
 status: up
 code: 200
-responseTime: 402
-lastUpdated: 2026-06-04T05:18:21.943Z
+responseTime: 400
+lastUpdated: 2026-06-04T05:51:26.969Z
 startTime: 2026-05-28T14:45:48.874Z
 generator: Upptime <https://github.com/upptime/upptime>
