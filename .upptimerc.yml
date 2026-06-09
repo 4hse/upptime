@@ -3,30 +3,30 @@ owner: 4hse # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Service
-    url: https://service.4hse.com/site/login?$SKIP_WAF_FIREWALL
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
-  - name: Auth
-    url: https://auth.4hse.com/?$SKIP_WAF_FIREWALL
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
-  - name: AI
-    url: https://ai.4hse.com/?$SKIP_WAF_FIREWALL
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
-  - name: MCP
-    url: https://mcp.4hse.com/?$SKIP_WAF_FIREWALL
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
-  - name: Mobile
-    url: https://mobile.4hse.com
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
-  - name: Docs
-    url: https://docs.4hse.com
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
-  - name: Dev
-    url: https://dev.4hse.com
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png    
-  - name: WWW
-    url: https://www.4hse.com
-    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: Service
+#    url: https://service.4hse.com/site/login?$SKIP_WAF_FIREWALL
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: Auth
+#    url: https://auth.4hse.com/?$SKIP_WAF_FIREWALL
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: AI
+#    url: https://ai.4hse.com/?$SKIP_WAF_FIREWALL
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: MCP
+#    url: https://mcp.4hse.com/?$SKIP_WAF_FIREWALL
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: Mobile
+#    url: https://mobile.4hse.com
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: Docs
+#    url: https://docs.4hse.com
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
+#  - name: Dev
+#    url: https://dev.4hse.com
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png    
+#  - name: WWW
+#    url: https://www.4hse.com
+#    icon: https://s3.eu-west-1.amazonaws.com/public.4hse.com/images/logo_4hse_icona300.png
   
 
 status-website:
